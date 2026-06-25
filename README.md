@@ -39,7 +39,6 @@ tests/
 
    ```bash
    git clone <repository-url>
-   cd TaskAlex
    ```
 
 2. **Install dependencies**
