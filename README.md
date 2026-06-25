@@ -1,13 +1,8 @@
-# Notes App – E2E Test Automation
-
-Automated end-to-end test suite for the [Notes App](https://practice.expandtesting.com/notes/app), demonstrating both UI and API testing using modern tools and best practices such as the Page Object Model, custom fixtures, and API-driven test data management.
-
 ## Technologies & Tools
 
 - **[Playwright](https://playwright.dev/)** – browser automation and API testing framework
 - **TypeScript** – strongly typed test code, models, and helpers
 - **Node.js** – runtime environment
-- **GitHub Copilot** – used to accelerate boilerplate code generation (test data utilities, models, documentation)
 
 ## Prerequisites
 
