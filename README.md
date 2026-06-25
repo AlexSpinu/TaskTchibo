@@ -2,12 +2,6 @@
 
 - **[Playwright](https://playwright.dev/)** – browser automation and API testing framework
 - **TypeScript** – strongly typed test code, models, and helpers
-- **Node.js** – runtime environment
-
-## Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18 or later recommended)
-- npm (comes with Node.js)
 
 ## Project Structure
 
